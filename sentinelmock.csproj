@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <PackageReference Include="KustoLoco.Core" Version="1.0.9" />
-    <PackageReference Include="KustoLoco.FileFormats" Version="1.0.9" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
   </ItemGroup>
 
